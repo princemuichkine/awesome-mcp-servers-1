@@ -242,6 +242,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Geographic and location-based services integration. Enables access to mapping data, directions, and place information.
 
+- <img src="https://lowest.flights/icon-192.png" height="14"/> [Agent Flights](https://github.com/lomiafrica/agent-flights-mcp) - Cheap flights worldwide: fare search, price calendars, cheap destinations and booking links. Free remote MCP at https://lowest.flights/mcp
 - <img src="https://campertunity.com/assets/icon/favicon.ico" height="14"/> [Campertunity](https://github.com/campertunity/mcp-server) - Search campgrounds around the world on campertunity, check availability, and provide booking links
 - <img src="https://cdn.simpleicons.org/googlemaps/4285F4" height="14"/> [Google Maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) - Google Maps integration for location services, routing, and place details
 - <img src="https://static.iplocate.io/custom/logo-square-rounded.png" height="14"/> [IPLocate](https://github.com/iplocate/mcp-server-iplocate) - Look up IP address geolocation, network information, detect proxies and VPNs, and find abuse contact details using IPLocate.io
